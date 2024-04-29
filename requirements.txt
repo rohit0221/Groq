@@ -1,0 +1,14 @@
+langchain 
+langchain-community
+langchainhub
+langchain-openai
+langchain-chroma
+bs4
+streamlit
+python-dotenv
+groq
+cassio
+langchain-groq
+astrapy
+langchain_astradb
+datasets
