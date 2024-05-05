@@ -12,3 +12,7 @@ langchain-groq
 astrapy
 langchain_astradb
 datasets
+pypdf
+sentence-transformers
+faiss-cpu
+PyPDF2
